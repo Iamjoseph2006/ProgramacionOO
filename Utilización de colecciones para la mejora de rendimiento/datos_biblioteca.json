@@ -1,0 +1,20 @@
+{
+    "libros": {
+        "1210": {
+            "titulo": "Artemisa",
+            "autor": "Andy",
+            "categoria": "Ciencia Ficcion",
+            "isbn": "1210"
+        }
+    },
+    "usuarios": {
+        "2101": {
+            "nombre": "Jose",
+            "id_usuario": "2101",
+            "libros_prestados": []
+        }
+    },
+    "ids_usuarios": [
+        "2101"
+    ]
+}
