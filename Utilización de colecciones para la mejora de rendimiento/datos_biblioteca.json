@@ -1,0 +1,46 @@
+{
+    "libros": {
+        "1210": {
+            "titulo": "Artemisa",
+            "autor": "Andy",
+            "categoria": "Ciencia ficcion",
+            "isbn": "1210"
+        },
+        "1310": {
+            "titulo": "Dune ",
+            "autor": "Frank",
+            "categoria": "Ciencia ficcion",
+            "isbn": "1310"
+        }
+    },
+    "usuarios": {
+        "2101": {
+            "nombre": "Jose",
+            "id_usuario": "2101",
+            "libros_prestados": [
+                {
+                    "titulo": "Artemisa",
+                    "autor": "Andy",
+                    "categoria": "Ciencia ficcion",
+                    "isbn": "1210"
+                }
+            ]
+        },
+        "2200": {
+            "nombre": "Gabriel",
+            "id_usuario": "2200",
+            "libros_prestados": [
+                {
+                    "titulo": "Dune ",
+                    "autor": "Frank",
+                    "categoria": "Ciencia ficcion",
+                    "isbn": "1310"
+                }
+            ]
+        }
+    },
+    "ids_usuarios": [
+        "2200",
+        "2101"
+    ]
+}
